@@ -1,0 +1,88 @@
+🎬 YouTube Clone
+
+A responsive YouTube Clone website built using HTML5 and CSS3. This project recreates the main YouTube interface, including the header, sidebar, search bar, video grid, thumbnails, channel information, and video details.
+
+📌 Features
+
+- 🎥 YouTube-style video grid
+- 🔍 Search bar and search button
+- 📱 Responsive layout
+- 📂 Navigation sidebar
+- 🖼️ Video thumbnails with duration
+- 👤 Channel profile pictures and information
+- 🔗 Clickable video thumbnails
+- 🎨 YouTube-inspired UI design
+- 📐 CSS Grid and Flexbox layouts
+
+🛠️ Technologies Used
+
+- HTML5 – Website structure
+- CSS3 – Styling and responsive layouts
+
+📂 Project Structure
+
+youtube-clone/
+│
+├── youtube.html
+├── Styles/
+├── icons/
+├── thumbnails/
+├── channel-picture/
+└── README.md
+
+🚀 How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/YOUR_USERNAME/youtube-clone.git
+
+2. Open the project in VS Code.
+3. Open "youtube.html".
+4. Run it using Live Server or open it directly in your browser.
+
+📚 What I Learned
+
+Through this project, I practiced:
+
+- HTML page structure
+- CSS styling
+- CSS Grid
+- Flexbox
+- Responsive design
+- Media queries
+- Image handling
+- Element positioning
+- Creating reusable components
+- Git and GitHub
+
+🔮 Future Improvements
+
+- [ ] Add JavaScript functionality
+- [ ] Make search functional
+- [ ] Add dark mode
+- [ ] Add video playback
+- [ ] Add login/signup
+- [ ] Add comments and likes
+- [ ] Connect to a backend
+- [ ] Integrate YouTube API
+
+📸 Project Preview
+
+Add your project screenshot here:
+
+![YouTube Clone](screenshots/homepage.png)
+
+👨‍💻 Author
+
+Vivek
+B.Tech Computer Science Engineering Student
+
+Tech: HTML5 • CSS3
+
+⭐ Acknowledgement
+
+This project was created for learning and frontend development practice. The design is inspired by YouTube's user interface and is not affiliated with or endorsed by YouTube or Google.
+
+📄 License
+
+For educational and portfolio purposes.
